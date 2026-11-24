@@ -1,1 +1,1 @@
-# Power-BI-Netflix-Dashboard-project
+# Power-BI-Spotify-Dashboard-project
